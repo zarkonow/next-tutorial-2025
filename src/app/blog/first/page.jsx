@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function FirstBlog() {
   return (
-    <div>FirstBlog post</div>
+    <div>First Blog post</div>
   )
 }
