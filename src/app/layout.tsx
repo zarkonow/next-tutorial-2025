@@ -14,17 +14,9 @@ export default function RootLayout({
 
         {children}
 
-
-<footer style={{backgroundColor: 'ghostwhite',
-  padding: '1rem'
-}}>
-
-
-  <h1>Footer</h1>
-</footer>
-
-
-
+        <footer style={{ backgroundColor: "ghostwhite", padding: "1rem" }}>
+          <h1>Footer</h1>
+        </footer>
       </body>
     </html>
   );
